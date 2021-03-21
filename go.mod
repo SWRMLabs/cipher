@@ -1,3 +1,3 @@
-module github.com/StreamSpace/cipher
+module github.com/SWRMLabs/cipher
 
 go 1.14

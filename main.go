@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/StreamSpace/cipher/lib"
+	"github.com/SWRMLabs/cipher/lib"
 )
 
 // Command arguments
